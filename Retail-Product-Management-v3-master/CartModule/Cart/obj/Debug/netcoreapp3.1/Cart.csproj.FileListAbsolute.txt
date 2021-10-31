@@ -1,0 +1,89 @@
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+C:\Users\ascha\source\repos\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+C:\Users\ascha\source\repos\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cart.styles.css
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cart.styles.css
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+C:\Users\Asus\Desktop\RetailUI\Retail-Product-Management-Updated\Retail-Product-Management-v3-master\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VendorModule",
+    "\\VendorModule\\Vendor",
+    "\\VendorModule\\Vendor\\Controllers"
+  ],
+  "SelectedNode": "\\VendorModule\\Vendor\\Controllers\\VendorController.cs",
+  "PreviewInSolutionExplorer": false
+}
